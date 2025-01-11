@@ -1,4 +1,3 @@
-![MasterHead](https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=0&uuid=f5ea744f-6932-42a1-a175-760213c14ea6)
 
 <h1 align="center">Hi 👋, I'm Tanisha</h1>
 <h3 align="center">Welcome to my page</h3>
